@@ -1,0 +1,11 @@
+//
+//  Prod.xcconfig
+//  MyApp
+//
+//  Created by Bharat Shilavat on 13/12/25.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+BASE_URL = www.myApp.com
